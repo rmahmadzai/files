@@ -1,0 +1,422 @@
+
+Broiler Starter feed
+
+
+ingriedient      Protien%   Total Amount
+
+10kg RiceBran    13        1.3
+15kg Corn        9         1.35
+40.7kg Wheat     12        4.88
+29.3kg soya      46        13.44
+                           21
+
+ingriedient      Methionine+cystine digestive%   Total Amount
+
+10kg Rice bran   0.23%         23gr
+15kg Corn        0.27%         40gr
+40.7kg Wheat     0.33%         134gr
+29.3kg soya      1.27%         372gr
+                               569gr=337+(430gr)=1000grams //
+
+ingriedient      Choline Choloride%   Total Amount
+
+2kg 
+
+ingriedient      Lysin%   Total Amount
+
+10kg Rice bran    0.41%       41gr
+15kg Corn         0.16%       24gr
+40.7kg Wheat      0.40%       162gr
+29.3kg soya       2.87%       840gr
+                              1067gr=1000gr+(255gr)=1320grams  // 
+
+ingriedient      Threonine%   Total Amount
+
+10kg Rice bran    0.25%       25gr
+15kg Corn         0.33%       49gr
+40.7kg Wheat      0.32%       130gr
+29.3kg soya       1.75%       512gr
+                              716gr +(170gr)>880grams
+
+ingriedient      Argenine%   Total Amount
+
+10kg rice Bran  0.48%        48gr
+15kg Corn       0.35%        52gr
+40.7kg wheat    0.56%        227gr
+29.3kg soya     3.2%         937gr
+                             1264+(135Grams)>1400 grams
+
+ingriedient      Valine%   Total Amount
+
+10kg rice bran     0.65%       65gr
+15kg Corn       0.50%         75gr
+40.7 wheat      0.60%         244gr
+29.3kg soya      2.0%        586gr
+                              970+(35)>1000 grams
+
+
+ingriedient      NA%   Total Amount
+
+10kg Rice bran   0.10%        10gr
+10kg Corn        0.05%        5gr
+46.2kg Wheat     0.09%        41gr
+28.8kg soya      0.05%        14gr
+                              70gr=70+81gr(from salt 39 % NA)+(200gr soda)=230  Soda has 26% NA
+
+ingriedient      Choloride%   Total Amount
+
+10kg Rice bran   0.17%       17gr
+10kg Corn        0.05%       5gr
+46.2kg Wheat     0.08%       36gr
+28.8kg soya      0.05%       14gr
+                             60gr=60+(280gr salt)=230gr   salt has 60% choloride
+
+                             
+ingriedient      Phosphorus%   Total Amount
+
+10kg Rice bran  0.11%         11gr
+10kg Corn       0.05%         5gr
+46.2kg Wheat    0.1%          46gr
+28.8kg soya     0.19%         54gr
+                              116gr=290gr +(1200gr dcp)=500gr +(1.5 kilo dcp which contain 18% phasphorus and 21% calcuium)///
+
+ingriedient      calcium%   Total Amount
+
+10kg Rice bran  0.07%       7gr
+15kg Corn       .02%        2gr
+40.7kg Wheat    0.05%       23gr
+29.3kg soya     0.2%        57gr
+                            89gr=89+(210 from dcp )+(1.9kg lsp)=950grams
+
+ingriedient      EnergyKcal/KG   Total Amount
+10kg Rice Bran  3100               31000
+15kg Corn       3330               49500
+40.7kg Wheat      3150             128000
+29.3kg soya       2550             74700
+                                   283000+(1.7kg oil) >2975
+
+
+
+Total Weight: 100.9
+
+
+Premix Formula
+
+150 Grams Vitamin Premix
+70 Grams Minral Premix
+50 Grams Toxin binder
+80 Grams Enzyme
+30 Grams Phytase
+50 Grams Bataine 
+50 Grams Meduramycin 
+
+Prices 
+10Rice Bran      5.1       51
+15kg corn        19.9      300
+46.2kg Wheat     19.2      782
+29.3kg soya      56        1640
+Methionine       273       118   
+Choline          125       36
+Lysine           145       45
+Threonine        175       32
+Salt                       5
+DCP              65        78
+Soda             44        8
+lsp              9         18
+Oil              90        153
+Vit Premix       375       57
+Min Premix       160       11
+Toxin Binder     233       12
+Enzyme           960       45
+phytase          260       12
+Bataine          220       20
+Meduramycin      270       10
+                            
+            Total           3440///1720  
+==============================================================================
+
+Broiler Grower feed
+
+
+ingriedient      Protien%   Total Amount
+
+15kg RiceBran    13        1.95
+15kg Corn        9         1.35
+41.7kg Wheat     12        5.00
+23.3kg soya      46        10.71
+                           19
+
+ingriedient      Methionine+Cystine%   Total Amount
+
+15kg Rice bran   0.23%         33gr
+15kg Corn        0.27%         40gr
+41.7kg Wheat     0.33%         137gr
+23.3kg soya      1.27%         295gr
+                               505gr=504+(365gr)=870grams 
+
+ingriedient      Choline Choloride%   Total Amount
+
+2kg
+
+ingriedient      Lysin%   Total Amount
+
+15kg Rice bran    0.41%       61gr
+15kg Corn         0.16%       24gr
+41.7kg Wheat      0.40%       166gr
+23.3kg soya       2.87%       668gr
+                              919gr=919gr+(230gr)=1150grams  
+
+ingriedient      Threonine%   Total Amount
+
+15kg Rice bran    0.25%        37gr
+41.7kg Wheat      0.32%        133gr
+15kg Corn         0.33%        49gr
+23.3kg soya       1.75%        407gr
+                               626gr  + (150)grams>770grams
+
+ingriedient      Argenine%   Total Amount
+
+15kg Rice bran    0.48%        72gr
+41.7kg Wheat      0.56%        233gr
+15kg Corn         0.35%        52gr
+23.3kg soya       3.2%         745gr
+                               1102+(130Grams)>1230 grams
+
+ingriedient      Valine%   Total Amount
+15kg Rice bran    0.65%       97gr
+15kg Corn       0.50%         75gr
+41.7kg Wheat      0.6%        250gr
+23.3kg soya       2.0%        466gr
+                              888+(0 Grams)>870 grams
+
+
+
+ingriedient      NA%   Total Amount
+
+15kg Rice bran   0.04%        6gr
+57.4kg Wheat      0.09%       23gr
+22.6kg soya       0.05%       15gr
+                              55gr=55gr+86gr(from salt 39 % NA)+(170gr soda)=180  Soda has 26% NA
+
+ingriedient      Choloride%   Total Amount
+
+15kg Rice bran   0.06%        9gr
+57.4kg Wheat      0.05%       13gr
+22.6kg soya       0.08%       27gr
+                              58gr=58+(280gr salt)=180gr   salt has 60% choloride
+
+                             
+ingriedient      Phosphorus%   Total Amount
+
+10kg Rice bran  0.11%         11gr
+15kg Corn       0.05%         7gr
+41.7kg Wheat    0.1%          41gr
+23.3kg soya     0.19%         44gr
+                               103gr=103gr +(1100gr dcp)=420gr +(dcp which contain 18% phasphorus and 21% calcuium)/// because phytase usage
+
+ingriedient      calcium%   Total Amount
+
+15kg Rice bran   0.07%       7gr
+57.4kg Wheat      0.05%      11gr
+22.6kg soya       0.2%       69gr
+                             91gr=91+(189 from dcp )+(1.7kg lsp)=870grams
+
+ingriedient      EnergyKcal/KG   Total Amount
+
+15kg Rice bran   3100         46500
+15kg Corn        3300         49500
+41.7kg Wheat     3150         131300
+23.3kg soya      2550         59400
+                              286000+(2.2kg oil) >3050
+
+
+
+
+Premix Formula
+
+150 Grams Vitamin Premix
+70 Grams Minral Premix
+50 Grams Toxin binder
+80/35 Grams Enzyme
+30 Grams Phytase
+50 Grams Bataine 
+60 Grams Meduramycin 
+
+Total Weight: 100.5 // Feed intake per bird =11 to 24 day 1351 grams 
+Prices 
+
+15kg Rice bran   5.1       77
+15kg Corn        19.9      300
+41.7kg Wheat     19.2      800 
+23.3kg soya      53        1240 
+Methionine       273       116   
+Choline          125       37
+Lysine           120       45
+Threonine        170       30
+Salt                       5
+DCP              65        71
+Soda             44        8
+lsp              9         14
+Oil              90        200
+Vit Premix       375       57
+Min Premix       160       10
+Toxin Binder     233       12
+Enzyme           1100      40
+phytase          260       8
+Bataine          220       20
+Meduramycin      270       14
+                            
+            Total           3110/1555  //  1535
+===============================================================================
+Broiler Finisher feed
+
+
+ingriedient      Protien%   Total Amount
+
+18kg Rice bran   13        2.34kg 
+15kg Corn        9         1.35
+41.7Kg Wheat     12        5.00
+20.3kg soya      46        9.33 
+                           18
+
+ingriedient      Methionine+cystine%   Total Amount
+
+18kg Rice bran   0.22%         39gr
+15kg Corn        0.27%         40gr
+41.7kg Wheat       0.33%       137gr
+20.3kg soya        1.27%       257gr
+                               473gr=475+(360gr)=830grams 
+
+
+ingriedient      Choline Choloride%   Total Amount
+
+2kg
+
+ingriedient      Lysin%   Total Amount
+
+
+18kg Rice bran    0.41%        73gr
+15kg Corn         0.16%        24gr
+41.7kg Wheat      0.40%        166gr
+20.3kg soya       2.87%        582gr
+                               845gr=851gr+(215gr)=1060grams  
+
+ingriedient      Threonine%   Total Amount
+
+18kg Rice bran    0.25%        45gr
+41.7kg Wheat        0.32%      133gr
+15kg Corn         0.33%        49gr
+20.3kg soya         1.75%      355gr
+                               582gr +(128 GRAMS)  >710grams
+
+ingriedient      Argenine%   Total Amount
+
+18kg Rice bran    0.48%        86gr
+41.7kg Wheat      0.56%        233gr
+15kg Corn         0.35%        52gr
+20.3kg soya       3.2%         649gr
+                               1020+(150 Grams)>1130grams
+
+ingriedient      Valine%   Total Amount
+18kg Rice bran    0.65%       117gr
+15kg Corn         0.50%       75gr
+41.7kg Wheat      0.5%        208gr
+20.3kg soya       2.0%        406gr
+                              806+(0 Grams)>810 grams
+
+
+ingriedient      NA%   Total Amount
+
+18kg Rice bran   0.04%        6gr
+57.5kg Wheat       0.09%       23gr
+19.5kg soya        0.05%       15gr
+                             55gr=55gr+81gr(from salt 39 % NA)+(200gr soda)=180  Soda has 26% NA
+
+ingriedient      Choloride%   Total Amount
+
+18kg Rice bran     0.06%      9gr
+57.5kg Wheat       0.05%      13gr
+19.5kg soya        0.08%      27gr
+                              58gr=58+(280gr salt)=180gr   salt has 60% choloride
+
+                             
+ingriedient      Phosphorus%   Total Amount
+
+18kg Rice bran    0.18%        32gr
+15kg Corn         0.13%        13gr
+41.7kg Wheat      0.2%         98r
+20.3kg soya       0.37%        65gr
+                               208gr=208gr +(950Grams dcp)=360gr                             ( dcp which contain 18% phasphorus and 21% calcuium)
+
+ingriedient      calcium%   Total Amount
+
+18kg Rice bran     0.07%         7gr
+60.3kg Wheat       0.05%       11gr
+16.7kgkg soya      0.2%        69gr
+                               91gr=91+(174 from dcp )+(1.3kg lsp)=650grams
+
+ingriedient      EnergyKcal/KG   Total Amount
+
+18kg Rice bran       3100          55800
+15kg Corn            3300          49500
+41.7kg Wheat         3150          131300
+20.3kg soya          2550          51700
+                                   288000+(2.5kg oil) >3100
+
+
+Total Weight: 100 // Feed intake per bird =24 to 39 day 2554 grams // Weight 2.5 kg 
+
+
+
+Premix Formula
+
+150 Grams Vitamin Premix
+70  Grams Minral Premix
+50 Grams Toxin binder
+35  Grams Enzyme
+30  Grams Phytase
+80  Grams Bataine 
+60  Grams Meduramycin / diclazuril 30 grams
+Prices 
+
+18kg Rice bran   4.8        87
+15kg Corn        19.9       300
+41.7kg Wheat     18.6       775
+20.3kg soya      51.1       1038
+Methionine       274        98.6  
+Argenine         405        60
+Choline          114        33
+Lysine           124        38.5
+Threonine        162        20
+Salt              10        3
+DCP             69          65
+Soda            45          8
+lsp             10          13
+Oil             94.2        236
+Vit Premix      400         60
+Min Premix      170         10
+Toxin Binder    233         14
+Enzyme          1150        40
+phytase        260          9
+Bataine        220          20
+diclazuril     250          8
+                            
+            Total           2936/1470 
+
+
+Starter   10.5 AFG    295  Grams   
+Grower    42.8   AFG    1351 Grams 
+Finisher  100  AFG     4355 Grams 
+
+Per KG 30.66
+
+Average per Bag (1533)
+
+
+1350 chicks feed
+8 bags starter // 14 
+28 bags Grower//45
+69 bags of finisher //109
+
+105 bags = 168000
+ 
