@@ -1,0 +1,9 @@
+Password for all digital ocean droplets and site:     PassWord#123__@@123a            
+
+Email: rmahmadzai4@gmail.com
+
+User for all droplets is : root
+
+
+159.65.157.114 Domain Server IP
+143.110.185.214 Sync Services Ip
